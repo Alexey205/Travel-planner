@@ -1,7 +1,7 @@
 # 🧭 SmartTravelPlanner
-
-<img src="images/demo.gif" alt="Demo gif" width="500" align="center">
-
+<div align="center">
+  <img src="images/demo.gif" alt="Demo gif" width="500">
+</div>
 [![C#](https://img.shields.io/badge/C%23-11-239120.svg?style=plastic&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4.svg?style=plastic&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![WinForms](https://img.shields.io/badge/WinForms-Desktop_App-0078D6.svg?style=plastic&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)
@@ -34,11 +34,11 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="images/main.png" width="50%"/>
+      <img src="images/main.png" width="80%"/>
       <br><i>Main program window after program started.</i>
     </td>
     <td align="center" width="50%">
-      <img src="images/filled.png" width="50%"/>
+      <img src="images/filled.png" width="80%"/>
       <br><i>Example of filled inputs & how program works.</i>
     </td>
   </tr>
