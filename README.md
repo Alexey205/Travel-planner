@@ -1,7 +1,6 @@
 # 🧭 SmartTravelPlanner
 <div align="center">
   <img src="images/demo.gif" alt="Demo gif" width="500">
-</div>
 
 [![C#](https://img.shields.io/badge/C%23-11-239120.svg?style=plastic&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4.svg?style=plastic&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
@@ -9,7 +8,7 @@
 [![MSBuild](https://img.shields.io/badge/Build-MSBuild-blue.svg?style=plastic&logo=visualstudio&logoColor=white)](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=plastic)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg?style=plastic&logo=windows)]()
-
+</div>
 ---
 
 **SmartTravelPlanner** is a Windows Forms application built with **C#** and **.NET**, designed to help users create traveler profiles, load maps, and find the shortest routes between cities.
