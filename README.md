@@ -9,7 +9,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=plastic)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg?style=plastic&logo=windows)]()
 </div>
----
 
 **SmartTravelPlanner** is a Windows Forms application built with **C#** and **.NET**, designed to help users create traveler profiles, load maps, and find the shortest routes between cities.
 
