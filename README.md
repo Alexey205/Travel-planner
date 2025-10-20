@@ -1,6 +1,6 @@
 # 🧭 SmartTravelPlanner
 
-![Demo SmartTravelPlanner](images/demo.gif)
+<img src="images/demo.gif" alt="Demo gif" width="500">
 
 [![C#](https://img.shields.io/badge/C%23-11-239120.svg?style=plastic&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4.svg?style=plastic&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
@@ -30,10 +30,10 @@
 
 Here are a couple of sreenshots that show how program works.
 
-![Main Window](images/main.png)
+<img src="images/main.png" alt="Program interface" width="500">
 *Main program window after program started.*
 
-![Route Planning](images/filled.png)
+<img src="images/filled.png" alt="Program work visualisation" width="500">
 *Example of filled inputs & how program works.*
 
 ---
