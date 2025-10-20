@@ -1,5 +1,7 @@
 # 🧭 SmartTravelPlanner
 
+![Demo SmartTravelPlanner](images/demo.gif)
+
 [![C#](https://img.shields.io/badge/C%23-11-239120.svg?style=plastic&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4.svg?style=plastic&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![WinForms](https://img.shields.io/badge/WinForms-Desktop_App-0078D6.svg?style=plastic&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)
@@ -21,6 +23,18 @@
 - 📋 **Route Overview** – Display total stops and travel distance.  
 - 💾 **File Storage** – Save and load data in JSON format.  
 - 🧰 **Dynamic UI** – Smooth, rounded UI panels and organized layouts.
+
+---
+
+## 📸 Screenshots
+
+Here are a couple of sreenshots that show how program works.
+
+![Main Window](images/main.png)
+*Main program window after program started.*
+
+![Route Planning](images/filled.png)
+*Example of filled inputs & how program works.*
 
 ---
 
