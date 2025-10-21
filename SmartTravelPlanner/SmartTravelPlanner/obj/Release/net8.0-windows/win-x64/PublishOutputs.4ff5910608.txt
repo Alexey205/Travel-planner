@@ -1,0 +1,2 @@
+C:\Users\sergs\Documents\KHPI\Kampus\Mission Control\SmartTravelPlanner\SmartTravelPlanner\bin\Release\net8.0-windows\win-x64\publish\SmartTravelPlanner.pdb
+C:\Users\sergs\Documents\KHPI\Kampus\Mission Control\SmartTravelPlanner\SmartTravelPlanner\bin\Release\net8.0-windows\win-x64\publish\SmartTravelPlanner.exe

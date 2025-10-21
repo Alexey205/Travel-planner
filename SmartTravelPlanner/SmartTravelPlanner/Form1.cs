@@ -59,6 +59,15 @@ namespace SmartTravelPlanner
             path.CloseFigure();
             control.Region = new Region(path);
         }
+        private void SetupAutoComplete(TextBox textBox, List<string> cities)
+        {
+            AutoCompleteStringCollection autoCompleteCollection = new AutoCompleteStringCollection();
+            autoCompleteCollection.AddRange(cities.ToArray());
+
+            textBox.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            textBox.AutoCompleteSource = AutoCompleteSource.CustomSource;
+            textBox.AutoCompleteCustomSource = autoCompleteCollection;
+        }
         private void LoadAvailableCities()
         {
             list_available_cities.Items.Clear();
@@ -77,6 +86,9 @@ namespace SmartTravelPlanner
             }
 
             label_cities_count.Text = $"Total cities: {cities.Count}";
+
+            SetupAutoComplete(input_destination, cities);
+            SetupAutoComplete(input_current_location, cities);
         }
         private void List_available_cities_Click(object sender, EventArgs e)
         {
